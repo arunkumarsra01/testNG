@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-20T16:02:19 IST" name="Surefire suite" finished-at="2024-06-20T16:02:30 IST" duration-ms="10738">
+  <suite started-at="2024-06-23T19:49:43 IST" name="Surefire suite" finished-at="2024-06-23T19:49:54 IST" duration-ms="10938">
     <groups>
     </groups>
-    <test started-at="2024-06-20T16:02:19 IST" name="Surefire test" finished-at="2024-06-20T16:02:30 IST" duration-ms="10738">
+    <test started-at="2024-06-23T19:49:43 IST" name="Surefire test" finished-at="2024-06-23T19:49:54 IST" duration-ms="10938">
       <class name="com.testNg.Test_usecase">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testNg.Test_usecase@163e4e87]" started-at="2024-06-20T16:02:19 IST" name="setup" finished-at="2024-06-20T16:02:28 IST" duration-ms="8309" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testNg.Test_usecase@6ae5aa72]" started-at="2024-06-23T19:49:43 IST" name="setup" finished-at="2024-06-23T19:49:51 IST" duration-ms="8668" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="userCrdentials()[pri:0, instance:com.testNg.Test_usecase@163e4e87]" started-at="2024-06-20T16:02:28 IST" name="userCrdentials" finished-at="2024-06-20T16:02:29 IST" duration-ms="1810" status="PASS">
+        <test-method is-config="true" signature="userCrdentials()[pri:0, instance:com.testNg.Test_usecase@6ae5aa72]" started-at="2024-06-23T19:49:51 IST" name="userCrdentials" finished-at="2024-06-23T19:49:53 IST" duration-ms="1792" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userCrdentials -->
-        <test-method signature="checkModule()[pri:0, instance:com.testNg.Test_usecase@163e4e87]" started-at="2024-06-20T16:02:29 IST" name="checkModule" finished-at="2024-06-20T16:02:29 IST" duration-ms="48" status="PASS">
+        <test-method signature="checkModule()[pri:0, instance:com.testNg.Test_usecase@6ae5aa72]" started-at="2024-06-23T19:49:53 IST" name="checkModule" finished-at="2024-06-23T19:49:53 IST" duration-ms="30" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkModule -->
-        <test-method signature="checkUsername()[pri:0, instance:com.testNg.Test_usecase@163e4e87]" started-at="2024-06-20T16:02:29 IST" name="checkUsername" finished-at="2024-06-20T16:02:30 IST" duration-ms="48" status="PASS">
+        <test-method signature="checkUsername()[pri:0, instance:com.testNg.Test_usecase@6ae5aa72]" started-at="2024-06-23T19:49:53 IST" name="checkUsername" finished-at="2024-06-23T19:49:53 IST" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkUsername -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testNg.Test_usecase@163e4e87]" started-at="2024-06-20T16:02:30 IST" name="tearDown" finished-at="2024-06-20T16:02:30 IST" duration-ms="412" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testNg.Test_usecase@6ae5aa72]" started-at="2024-06-23T19:49:53 IST" name="tearDown" finished-at="2024-06-23T19:49:54 IST" duration-ms="290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
