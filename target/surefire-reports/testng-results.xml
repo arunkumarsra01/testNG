@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+
   <suite started-at="2024-06-23T19:49:43 IST" name="Surefire suite" finished-at="2024-06-23T19:49:54 IST" duration-ms="10938">
     <groups>
     </groups>
